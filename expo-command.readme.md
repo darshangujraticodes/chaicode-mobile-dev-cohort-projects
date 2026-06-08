@@ -6,6 +6,7 @@ Suraj Sir tldraw notes : https://www.tldraw.com/f/mQeviE3IZLi8quAUEoGja?d=v-1662
 
 ```
 https://scrcpy.org/
+AirDroid cast
 ```
 
 # To create App with latest sdk 55
